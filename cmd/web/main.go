@@ -7,7 +7,7 @@ import (
 	"log/slog"
 	"net/http"
 	"os"
-	"snippetbox.aminekicah/internal/models"
+	"snippetbox.aminekichah/internal/models"
 )
 
 type application struct {

@@ -1,4 +1,4 @@
-module snippetbox.aminekicah
+module snippetbox.aminekichah
 
 go 1.23.4
 
